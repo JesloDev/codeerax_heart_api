@@ -14,11 +14,6 @@ Installation:
 Heart API - Execution Engine
 Base URL: http://localhost:8000/api/v1
 
-Security and Authentication:
-    Header Name: X-Heart-Signature
-    Value: super_secure_random_string
-
-
 
 
 
